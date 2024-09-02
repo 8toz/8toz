@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb2e9fc0-cc61-4327-9797-77a495a531d8" alt="Profile Picture"
+       style="border-radius: 50%; border: 5px solid #000000; width: 150px; height: 150px; object-fit: cover;">
+</p>
+
 <h1 align="center">Hi there 👋, I'm Antonio Ochotorena Laynez</h1> 
 <h3 align="center">🌐 Data Scientist & Biomedical Engineer | 🌍 Based in Amsterdam </h3>
 <h4 align="center"> <a href="https://linkedin.com/in/antonioochotorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonioochotorena" height="30" width="40" /></a>  <a href="https://kaggle.com/antonio8to" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="antonio8to" height="30" width="40" /></a> <a href="https://www.leetcode.com/antonioochotorena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="antonioochotorena" height="30" width="40" /></a> </h4>
