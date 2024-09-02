@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb2e9fc0-cc61-4327-9797-77a495a531d8" alt="Profile Picture"
-       style="border-radius: 50%; border: 5px solid #000000; width: 150px; height: 150px; object-fit: cover;">
+       style="border-radius: 50%; border: 5px solid #000000; max-width: 150px; max-height: 150px; object-fit: cover;">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Antonio Ochotorena Laynez</h1> 
